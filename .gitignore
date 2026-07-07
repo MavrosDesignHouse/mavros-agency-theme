@@ -1,4 +1,6 @@
 .vscode/sftp.json
+sftp.jso
+sftp.json
 *.zip
 node_modules
 .DS_Store
